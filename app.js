@@ -7,7 +7,7 @@ app.get('/', function(req, res) {
 });
 
 app.listen(3001, function() {
-  console.log('Listening to port 3000');
+  console.log('Listening to port 3001');
 });
 
 app.use(express.static('public'));
