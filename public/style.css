@@ -1,0 +1,136 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - #eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+body {
+  background-color: #dddddd;
+}
+
+body > div {
+  background-color: white;
+  border: 3px solid #ffd24a;
+  border-radius: 5px;
+  width: 70%;
+  margin: 10px auto;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.6em;
+}
+
+#site_header {
+  background: #ff8523;
+  padding: 40px 20px;
+}
+
+#logo {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.main_navigation a {
+  border: 1px solid white;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+  padding: 10px 20px;
+}
+
+#page_content {
+  margin: 0 auto;
+  padding: 0 20px;
+  padding-bottom: 20px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+#page_content h2, h3 {
+  color: #1fabe5;
+  line-height: 2.6em;
+}
+
+ul {
+  margin: 20px 40px;
+  font-weight: 700;
+}
+
+section {
+  border-bottom: 5px solid #eee;
+}
+
+table {
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+  background: #1fabe5;
+  color: white;
+}
+
+td {
+  padding: 5px 5px;
+  border: 1px solid #046c97;
+  margin: 0 auto;
+}
+
+td img {
+  width: 60px;
+}
+
+form {
+  background-color: #eee;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.name {
+  background-color: #ff8523;
+  border-radius: 3px;
+  padding: 20px 40px;
+  color: white;
+}
+
+.name input {
+  width: 300px;
+}
+
+div label {
+  font-weight: 600;
+}
+
+textarea {
+  padding: 15px;
+  width: 95%;
+}
+
+.submit_container input {
+  background-color: #1fabe5;
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  font-size: 2em;
+}
+
+
+
+
+
+

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geenious/puppy-love-with-server/issues"
   },
-  "homepage": "https://github.com/geenious/puppy-love-with-server#readme"
+  "homepage": "https://github.com/geenious/puppy-love-with-server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
