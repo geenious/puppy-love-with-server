@@ -1,0 +1,19 @@
+{
+  "name": "create-server-puppylove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geenious/puppy-love-with-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geenious/puppy-love-with-server/issues"
+  },
+  "homepage": "https://github.com/geenious/puppy-love-with-server#readme"
+}
